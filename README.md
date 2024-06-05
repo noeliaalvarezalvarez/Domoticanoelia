@@ -1,2 +1,22 @@
 # Domoticanoelia
+Resumo: 
+Primero de todo preparamos un ordenador pequeño chamado noovi, para que fose a Nosa central domótica, instalamos e configuramos as aplicacions para ter o servidor mqtt preparado para conectar todos os sensores e actuadores que necesitemos
+Cando xa instalamos o nosotros sistema operativo rp no noovi, procedimos a instalar mosquito e nodered e a partir de aquí o noso noovi xa estaría preparado para domotizar unha vivenda sendo o administrador e xestor de todos os datos que se manexen nesa rede.
+Fixenos Unha proba de conexión desde o noso ordenador ao noovi, comprobando si funcionaba
+Comenzamos coas prácticas en Arduino
+Na práctica un, conectamos o esp32 a rede wifi e ao servidor mqtt
+Na práctica dous, encendimos e apagamos un led, a través do panel de node red, pero antes tivemos que crear os fluxos en nodered
+Na práctica tres, nesta práctica tamen acendimos un led, pero a través dun bonton que tamen configuramos a través de fluxos en node red
+Na práctica 4 utilizamos tamen un sensor dht11 para medir a temperatura e humidade e facer funcionar un ventilador, accionado por un relé, está automatización a fixenos cos nodos de node red de tal
+maneira que cando a temperatura ou a humidade pasen dun determinado valor o relé
+activarase, facendo que o ventilador comece a funcionar.
+
 ![maqueta24](https://github.com/noeliaalvarezalvarez/Domoticanoelia/assets/171138946/916df20d-fed2-46d3-9b16-9031487ca4fd)
+
+Automatizacións:
+Rego automático: a través de sensores de humidade: Utilizando sensores que detectan a humidade do solo se axustan o rego en consecuencia para evitar exceso ou falta de auga.
+Automatización do garaxe: a través de detección de vehículos: configuramos sensores que detecten a entrada ou saída de vehículos e activen a porta do garaxe automaticamente.
+
+Fluxos:
+![flowP4noelia](https://github.com/noeliaalvarezalvarez/Domoticanoelia/assets/171138946/16fdeba4-bebf-487d-ac07-ea257c203ec0)
+![nodos_noelia](https://github.com/noeliaalvarezalvarez/Domoticanoelia/assets/171138946/9e0f9da8-e137-429a-98da-4ce2b56ddf3b)
