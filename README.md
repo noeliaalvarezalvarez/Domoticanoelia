@@ -20,3 +20,4 @@ Automatización do garaxe: a través de detección de vehículos: configuramos s
 Fluxos:
 ![flowP4noelia](https://github.com/noeliaalvarezalvarez/Domoticanoelia/assets/171138946/16fdeba4-bebf-487d-ac07-ea257c203ec0)
 ![nodos_noelia](https://github.com/noeliaalvarezalvarez/Domoticanoelia/assets/171138946/9e0f9da8-e137-429a-98da-4ce2b56ddf3b)
+![EsquemaConexions_bb(2)](https://github.com/noeliaalvarezalvarez/Domoticanoelia/assets/171138946/ba33ce8c-c6ba-476a-baa8-cab59b570e42)
