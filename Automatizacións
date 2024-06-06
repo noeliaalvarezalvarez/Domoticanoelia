@@ -1,4 +1,3 @@
-Rego automático: a través de sensores de humidade: Utilizando sensores que detectan a humidade do solo se axustan o rego en consecuencia para evitar exceso ou falta de auga. 
-
-Automatización do garaxe: a través de detección de vehículos: configuramos sensores que detecten a entrada ou saída de vehículos e activen a porta do garaxe automaticamente.
+Rego automático: a través de sensores de humidade: Utilizando un relé nunha bomba que detectan a humidade do solo se axustan o rego en consecuencia para evitar exceso ou falta de auga. 
+UN LED RGB: que en función da temperatura que detecte o DHT11 se acenda unha cor, por exemplo se a temperatura es menor de 5º ponse azul, se a temperatura esta entre 5º y 20º ponse verde e se é maior de 20º ponse vermello
 
